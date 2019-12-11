@@ -4,6 +4,7 @@
   "description": "Example of how to generate a unique ID per request in an NodeJS/Express API",
   "main": "index.js",
   "scripts": {
+    "start": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Chris Williams <chris@imnotplayinganymore.com>",
