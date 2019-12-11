@@ -1,0 +1,18 @@
+{
+  "name": "unique-id-per-request",
+  "version": "1.0.0",
+  "description": "Example of how to generate a unique ID per request in an NodeJS/Express API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Williams <chris@imnotplayinganymore.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cls-hooked": "^4.2.2",
+    "cls-rtracer": "^1.3.0",
+    "express": "^4.17.1",
+    "express-winston": "^4.0.1",
+    "winston": "^3.2.1"
+  }
+}
